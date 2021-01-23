@@ -4,9 +4,9 @@ package dora
 import (
 	"strconv"
 
-	"github.com/bradford-hamilton/dora/pkg/ast"
-	"github.com/bradford-hamilton/dora/pkg/lexer"
-	"github.com/bradford-hamilton/dora/pkg/parser"
+	"github.com/shadowkrusha/dora/pkg/ast"
+	"github.com/shadowkrusha/dora/pkg/lexer"
+	"github.com/shadowkrusha/dora/pkg/parser"
 )
 
 // Client represents a dora client. The client holds things like a copy of the input, the tree (the

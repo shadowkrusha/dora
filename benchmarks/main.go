@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bradford-hamilton/dora/pkg/dora"
+	"github.com/shadowkrusha/dora/pkg/dora"
 )
 
 // Original Benchmark values for first three benches and some summaries

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/bradford-hamilton/dora/pkg/ast"
-	"github.com/bradford-hamilton/dora/pkg/danger"
+	"github.com/shadowkrusha/dora/pkg/ast"
+	"github.com/shadowkrusha/dora/pkg/danger"
 )
 
 var (

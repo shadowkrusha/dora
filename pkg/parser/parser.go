@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bradford-hamilton/dora/pkg/ast"
-	"github.com/bradford-hamilton/dora/pkg/lexer"
-	"github.com/bradford-hamilton/dora/pkg/token"
+	"github.com/shadowkrusha/dora/pkg/ast"
+	"github.com/shadowkrusha/dora/pkg/lexer"
+	"github.com/shadowkrusha/dora/pkg/token"
 )
 
 // Parser holds a Lexer, errors, the currentToken, and the peek peekToken (next token).

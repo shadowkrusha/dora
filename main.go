@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/bradford-hamilton/dora/pkg/dora"
+	"github.com/shadowkrusha/dora/pkg/dora"
 )
 
 // Notes:

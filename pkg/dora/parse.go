@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/bradford-hamilton/dora/pkg/danger"
+	"github.com/shadowkrusha/dora/pkg/danger"
 )
 
 // The available accessTypes for a dora query

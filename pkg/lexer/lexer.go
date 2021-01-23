@@ -2,7 +2,7 @@
 package lexer
 
 import (
-	"github.com/bradford-hamilton/dora/pkg/token"
+	"github.com/shadowkrusha/dora/pkg/token"
 )
 
 // Lexer holds input data and fields that help with scanning.

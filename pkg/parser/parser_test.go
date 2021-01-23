@@ -3,8 +3,8 @@ package parser
 import (
 	"testing"
 
-	"github.com/bradford-hamilton/dora/pkg/ast"
-	"github.com/bradford-hamilton/dora/pkg/lexer"
+	"github.com/shadowkrusha/dora/pkg/ast"
+	"github.com/shadowkrusha/dora/pkg/lexer"
 )
 
 func TestParsingJSONObjectChildren(t *testing.T) {
